@@ -66,7 +66,7 @@ Cette migration a ouvert une discussion plus large sur les solutions d’héberg
 -   Politique de tarification
 -   Impact environnemental : Un build Vercel est effectué à Washington, une région qui dépend beaucoup du gaz et du charbon, générant 11 fois plus de pollution par kWh (CO₂eq/kWh).  
     [Electricity Map](https://app.electricitymaps.com/map?lang=fr)
-**Octopus** a été présenté comme alternative à AWS et l'équipe gère majoritairement manuellement les déploiements sur divers projets.
+-   **Octopus** a été présenté comme alternative à AWS et l'équipe gère majoritairement manuellement les déploiements sur divers projets.
 ----------
 
 ## 4. Cursor et autres forks de VSCode
